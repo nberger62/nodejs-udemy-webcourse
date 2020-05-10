@@ -1,0 +1,31 @@
+h1 {
+    color: #000000;
+}
+h2 {
+    color: #4B0082;
+    size: A3;
+    font-family: Arial;
+}
+body {
+    background: radial-gradient(circle, blue, white);
+}
+
+/*
+body {
+    background: url(logo.png), url(background-pattern.png);
+}*/
+/*
+body {
+    background:
+            url(logo.png) bottom center no-repeat,
+            url(background-pattern.png) repeat;
+}*/
+/*
+body {
+    background: url(sweettexture.jpg) blue;
+}*/
+/*
+body {
+    !* Base64 encoded transparent gif *!
+    background: url(data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7);
+}*/

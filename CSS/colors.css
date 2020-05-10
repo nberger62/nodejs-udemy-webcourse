@@ -1,0 +1,21 @@
+h1 {
+    color: #000000;
+}
+h2 {
+    color: #4B0082;
+    size: A3;
+    font-family: Arial;
+}
+h3 {
+    color: red;
+    size: A3;
+    font-family: Arial;
+}
+h4 {
+    color: aqua;
+    size: B5;
+    font-family: Arial;
+}
+h5 {
+    color: rgb(0,255,0);
+}
